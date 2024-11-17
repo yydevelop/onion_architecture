@@ -1,0 +1,7 @@
+{
+    "API_URL": "https://api.example.com/data",
+    "DB_CONNECTION_STRING": "data.db",
+    "FILE_PATH": "data.txt",
+    "LOG_FILE_PATH": "app.log",
+    "DB_SERVER_NAME": "Server1"
+}
